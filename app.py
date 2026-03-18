@@ -1,5 +1,5 @@
 import streamlit as st
-from ChaBot.chatbot import get_response
+from chatbot import get_response
 
 st.markdown(
     """
